@@ -25,7 +25,6 @@ Cuento con conocimientos en desarrollo frontend y backend utilizando JavaScript,
 - Consumo de APIs REST
 - Manejo de estado
 - Renderizado dinámico
-- LocalStorage
 
 ---
 
